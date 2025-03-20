@@ -1,10 +1,10 @@
 import React, { useState, useCallback } from 'react';
-//import styles from './App/App.css';
+import styles from '../App/App.css';
 
 import SearchBar from '../SearchBar/SearchBar';
 import Playlist from '../Playlist/Playlist';
 import SearchResults from '../SearchResults/SearchResults';
-import spotify from '../..Extra/Spotify';
+import spotify from 'src/Extra/Spotify.js';
 
 
 const App = () => {
