@@ -12,9 +12,9 @@
     "react-scripts": "^3.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": {
-    "http://{github-pr1nc301}.github.io/{jammingApp}"
-  },
+{
+  "homepage":"http://{github-pr1nc301}.github.io/{jammingApp}"
+},
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
@@ -44,4 +44,4 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
-}
+
